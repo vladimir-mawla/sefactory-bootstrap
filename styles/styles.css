@@ -47,3 +47,35 @@ body {
     width: 28%;
     height: 150%;
 }
+.artwork {
+    padding-top: 10%;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+
+.artboard {
+    
+    width: 50%;
+    min-width: 300px;
+}
+.artboard img {
+    width:100%;
+}
+
+.artboard-text {
+    width: 50%;
+}
+
+.artboard-text h1 {
+    font-size: 3em;
+}
+
+.artboard-text p {
+    font-size: 1.5em;
+}
+.second-section-p {
+    padding-left: 20px;
+    padding-right: 25%;
+}
