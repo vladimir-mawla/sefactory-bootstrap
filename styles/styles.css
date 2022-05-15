@@ -227,3 +227,24 @@ hr {
     width: 20%;
     height: 50px;
 }
+.footer {
+    background-color: #000000;
+    color: white;
+    height: 100px;
+}
+#footer-items {
+    padding-top: 30px;
+    font-size: 17px;
+}
+#copyright {
+    padding-left: 80px;
+}
+#icon {
+    width: 15%;
+}
+
+#green {
+    color:#18EA19;
+    text-decoration: underline;
+    text-decoration-color: #18EA19;
+}
