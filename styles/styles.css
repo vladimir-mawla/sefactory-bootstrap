@@ -131,3 +131,35 @@ body {
     width: 100%;
     padding: 5% 7%;
 }
+
+.fifth-section-block {
+    text-align: center;
+    padding: 1% 0%;
+    width: 60%;
+}
+
+.fifth-section-block h4 {
+    font-size: 2em;
+}
+
+.fifth-section-block p {
+    font-weight: 300;
+}
+
+.fifth-section-block div {
+    padding: 0 0;
+}
+
+.row {
+    display: flex;
+    justify-content: space-around;
+}
+.row img {
+    padding-right: 12%;
+    width: 120%;
+}
+
+.light {
+    font-weight: 400;
+}
+
