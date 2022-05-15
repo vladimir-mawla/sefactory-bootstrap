@@ -22,3 +22,28 @@ body {
 
 
 
+.front-block {
+    color: white;
+    text-align: left;
+    padding: 14% 55% 8% 7%;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    height: 30%;
+    font-family: sans-serif;
+
+}
+.front-block h1 {
+    font-size: 3em;
+}
+.front-block p {
+    font-size: 1.5em;
+}
+.front-block div {
+    padding: 2% 0;
+}
+
+.front-block button {
+    width: 28%;
+    height: 150%;
+}
