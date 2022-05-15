@@ -98,3 +98,31 @@ body {
     padding-right: 25%;
 }
 
+
+
+.third-section {
+    background-color: #18EA19;
+    height: 100%;
+}
+
+.third-section-text {
+    padding-top: 3%;
+    color: white;
+    font-size: 50px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    width: 100%;
+}
+
+.programs {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+
+.programs img {
+    width: 120%;
+    
+}
