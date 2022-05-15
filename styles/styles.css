@@ -16,7 +16,7 @@ body {
 #navbarNav a {
     font-size: 1.1em;
 }
-.btn {
+#green-button {
     background-color: #00DD00;
 }
 
@@ -211,4 +211,19 @@ hr {
 #partner {
     right: 0;
     width: 160%;
+}
+.ninth-section {
+    background-color: rgb(229, 229, 229);
+    padding-bottom: 3%;
+}
+#subscribe {
+    padding: 5% 0;
+    font-size: 18px;
+    padding-bottom: 1%;
+}
+
+#black-button {
+    background-color: #000000;
+    width: 20%;
+    height: 50px;
 }
